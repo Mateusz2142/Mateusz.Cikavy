@@ -21,3 +21,4 @@ years = 50
 # liczba mrugnięć w ciągu X lat
  #result
 print(blinksPerMin * minInHour * hoursInDay * daysInYear * years)
+input ("press enter to exit")
